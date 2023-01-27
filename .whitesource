@@ -1,3 +1,1 @@
-{
-  "settingsInheritedFrom": "Mend-developer-platform-load/whitesource-config@main"
-}
+{"settingsInheritedFrom": "Mend-developer-platform-load/whitesource-config@main", "scanSettings": {"configMode": "AUTO", "configExternalURL": "", "projectToken": "", "baseBranches": ["feature_branch"]}}
